@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #f0f0f0;
+
+    
+}
+
+section{
+    background-color: #fc1f1f;
+    padding: 20px;
+    
+}
